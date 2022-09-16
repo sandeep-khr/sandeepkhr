@@ -1,13 +1,11 @@
 <p align="center">
-![](https://github.com/sandeepkhr/sandeepkhr/blob/main/standard.gif)
+  <img width=940px src="standard.gif" alt="animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-<p align="left"><iframe src="https://giphy.com/embed/IoP0PvbbSWGAM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-IoP0PvbbSWGAM">via GIPHY</a></p></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepkhr" alt="sandeepkhr" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkhr&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkhr" /> </p>>
 
 <p align="left"> <a href="https://twitter.com/sandeep_khar" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep_khar?logo=twitter&style=for-the-badge" alt="sandeep_khar" /></a> </p>
 
